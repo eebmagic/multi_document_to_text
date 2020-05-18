@@ -1,0 +1,43 @@
+##########################
+from: examples/sources/inverted/1-output.png
+##########################
+Programming Ideas
+
+Multi-Document Reader make python reader allow for multiple image inputs to be
+combined into one text document (& option to copy to clipboard without making a file)
+
+##########################
+from: examples/sources/inverted/2-output.png
+##########################
+Keyboard Gungeun Adaptation work on keyboard adaptation /Users/ethanbolton/
+Desktop/pythonFiles/gungeunGameAttempt.py
+
+Bullets
+player and enemy health
+Walls
+
+##########################
+from: examples/sources/inverted/3-output.png
+##########################
+Sklearn ML predict latitude by weather data and date
+
+Modify Definition Googler to pull text of definition out from .htm! from google page and
+present in one nice text file
+
+Figure out how to properly use wget/curl. (DONT: just use requests.get(url))
+
+Make countdown script that has options for days and times (output with figlet?)(in ~/
+Desktop/halfDoneThings)
+
+##########################
+from: examples/sources/inverted/4-output.png
+##########################
+Finish Square trimmer to have square option
+Make more GitHub repos for pythonTools/
+Make a script to check website updates
+
+Have a text file with a list of websites/URLs
+
+Output text from updated files to a separate directory
+json prettifier
+

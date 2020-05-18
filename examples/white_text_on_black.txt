@@ -1,0 +1,43 @@
+##########################
+from: examples/sources/fixed/1.png
+##########################
+Programming Ideas
+
+Multi-Document Reader make python reader allow for multiple image inputs to be
+combined into one text document (& option to copy to clipboard without making a file)
+
+##########################
+from: examples/sources/fixed/2.png
+##########################
+Fe RE Ce a En Re eee Tr Ue
+DESC uals tur ctmcemeacc ase
+
+MC
+Se Aum
+es
+
+##########################
+from: examples/sources/fixed/3.png
+##########################
+Se eg nO acc eeu cy
+
+Modify Definition Googler to pull text of definition out from .htm! from google page and
+Peach ai
+
+nO cmc OO a ee Tee ))
+
+Make countdown script that has options for days and times (output with figlet?)(in ~/
+Dee epee ues)
+
+##########################
+from: examples/sources/fixed/4.png
+##########################
+ER eRe ce
+DCC at nee ao
+Werke eRe Cn Tc
+
+Perea Aur Se ced
+
+Output text from updated files to a separate directory
+sec
+
